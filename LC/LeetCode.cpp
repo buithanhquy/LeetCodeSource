@@ -6,6 +6,7 @@ int main() {
 	cout << "Hello11212!\n";
 	int a = 5;
 	int b = 01;
+	if (a > 0 && b > 0)
 	cout << a + b << endl;
 	return 0;
 }
